@@ -1,0 +1,16 @@
+node_modules/**/*
+.expo/*
+.expo-shared/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.watchmanconfig
+*package-lock.json
+*yarn-error.log
+*.mobileprovision
+*.orig.*
+*babel.config.js
+web-build/
+web-report/
